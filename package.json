@@ -4,7 +4,8 @@
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Anand Kumar Sharma",
-		"email": "anands2959@gmail.com"
+		"email": "anands2959@gmail.com",
+		"url": "https://the-anand.vercel.app/"
 	},
 	"license": "MIT",
 	"private": true,
