@@ -6,9 +6,9 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 <img src="https://raw.githubusercontent.com/anands2959/the-anand/main/public/website-photo.png?token=GHSAT0AAAAAACUNHC3KF5UAAWGWF6GIZFK4ZU6R7KA" alt="theanand" />
 </center>
 
-Live demo here: <a href="https://the-anand.vercel.app/" target="_blank">reactfolio.tharindu.dev</a>
+Live demo here: <a href="https://www.anandsharma.info/" target="_blank">anandsharma.info</a>
 <br/>
-Readme here: <a href="https://the-anand.vercel.app/" target="_blank">theanand</a>
+Readme here: <a href="https://www.anandsharma.info/" target="_blank">theanand</a>
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
