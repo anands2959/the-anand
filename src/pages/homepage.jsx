@@ -168,7 +168,7 @@ const Homepage = () => {
 								/>
 							</a>
 
-							<a href="/" className="resume-download">
+							<a href="https://drive.google.com/uc?export=download&id=16w2EPgxsy04VymUSwKDQePnf2bkDiKHp" className="resume-download" target='_blank'>
 								Download CV
 							</a>
 						</div>
