@@ -158,7 +158,7 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href="https://codepen.io/Anand-Kumar-Sharma"
+								href="https://codepen.io/anands2959"
 								target="_blank"
 								rel="noreferrer"
 							>
