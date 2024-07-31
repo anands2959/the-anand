@@ -35,6 +35,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Data Visualization Dashboard",
+			description:
+				"A MERN stack-based interactive dashboard with dynamic charts and filters, designed for visualizing and exploring complex datasets in a user-friendly and visually appealing interface.",
+			logo: "https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png",
+			linkText: "View Project",
+			link: "https://data-visualization-dashboard-nu.vercel.app/",
+		},
+		{
 			title: "NodeJS Snippets extension of VS code",
 			description:
 				"A collection of useful code snippets for Node.js development. Each snippet includes a prefix for quick access and a description of its functionality.",
