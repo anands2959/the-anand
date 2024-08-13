@@ -34,7 +34,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Grasim Industries Ltd.,Renukoot</div>
 							<div className="work-subtitle">
-								Software Engineer
+								User Management
 							</div>
 							<div className="work-duration">2023</div>
 						</div>
