@@ -108,9 +108,7 @@ const Homepage = () => {
 								<ul className="subtitle homepage-subtitle">
 {/* 									{INFO.homepage.description} */}
 									{INFO.homepage.description.map((line,index)=>(
-									<li>{line}</li>
-									)}
-
+									<li>{line}</li>))}
 								</ul>
 							</div>
 
