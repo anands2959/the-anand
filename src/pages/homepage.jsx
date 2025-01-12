@@ -95,13 +95,18 @@ const Homepage = () => {
 							<div className="homepage-first-area-left-side">
 								<div className="title homepage-title">
 {/* 									{INFO.homepage.title} */}
-									<h1 dangerouslySetInnerHTML={{ __html: INFO.homepage.title }} />
+									{INFO.homepage.title.split('\n').map((line, index) => (
+  <React.Fragment key={index}>
+    {line}
+    <br />
+  </React.Fragment>
+))}
+									
 
 								</div>
 
 								<div className="subtitle homepage-subtitle">
-{/* 									{INFO.homepage.description} */}
-									<h1 dangerouslySetInnerHTML={{ __html: INFO.homepage.description }} />
+									{INFO.homepage.description}
 
 								</div>
 							</div>
