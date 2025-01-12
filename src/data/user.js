@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and web designer",
+		title: "Hii ! \n Anand Kumar Sharma",
 		description:
 			"I am a full stack developer with expertise in the MERN stack and mobile app design. I build scalable, secure applications and enjoy solving complex problems. Many of my projects are open-source, and I'm always open to new challenges and collaborations.",
 	},
