@@ -16,10 +16,14 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Hii ! \n Anand Kumar Sharma",
+		title: "Hii !<br />Anand Kumar Sharma",
 		description:
-			"I am a full stack developer with expertise in the MERN stack and mobile app design. I build scalable, secure applications and enjoy solving complex problems. Many of my projects are open-source, and I'm always open to new challenges and collaborations.",
-	},
+			[
+		"I am a full stack developer specializing in the MERN stack and mobile app design.",
+		"I build scalable and secure applications and enjoy solving complex problems.",
+		"Many of my projects are open-source, encouraging exploration and collaboration.",
+		"I am always open to new challenges and learning opportunities."
+	],},
 
 	about: {
 		title: "I’m Anand Kumar Sharma from India, Where I design the future.",
