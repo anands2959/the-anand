@@ -19,7 +19,7 @@ const INFO = {
 		title: "Hii !\nAnand Kumar Sharma",
 		description:
 			[
-		"Full stack MERN developer and mobile app designer.            ",
+		"Full stack developer with expertise in the MERN stack and mobile app design.",
 		"Builds secure, scalable apps and solves complex problems.",
 		"Eager for challenges and continuous growth. "
 	]},
@@ -37,6 +37,14 @@ const INFO = {
 	},
 
 	projects: [
+		{
+			title: "VectorVista",
+			description:
+				"VectorVista: A modern React-based app for creating stunning logos and graphics with an intuitive, customizable interface. Powered by Vite for a seamless design experience.",
+			logo: "https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png",
+			linkText: "View Project",
+			link: "https://vectorvista.vercel.app/",
+		},
 		{
 			title: "Data Visualization Dashboard",
 			description:
