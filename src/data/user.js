@@ -19,7 +19,7 @@ const INFO = {
 		title: "Hii !\nAnand Kumar Sharma",
 		description:
 			[
-		"Full stack MERN developer and mobile app designer. ",
+		"Full stack MERN developer and mobile app designer.            ",
 		"Builds secure, scalable apps and solves complex problems.",
 		"Eager for challenges and continuous growth. "
 	]},
