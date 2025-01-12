@@ -105,10 +105,13 @@ const Homepage = () => {
 
 								</div>
 
-								<div className="subtitle homepage-subtitle">
-									{INFO.homepage.description}
+								<ul className="subtitle homepage-subtitle">
+{/* 									{INFO.homepage.description} */}
+									{INFO.homepage.description.map(line,index)=>(
+									<li>{line}</li>
+									)}
 
-								</div>
+								</ul>
 							</div>
 
 							<div className="homepage-first-area-right-side">
