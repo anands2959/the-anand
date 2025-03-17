@@ -43,7 +43,7 @@ const INFO = {
 				"VectorVista: A modern React-based app for creating stunning logos and graphics with an intuitive, customizable interface. Powered by Vite for a seamless design experience.",
 			logo: "https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png",
 			linkText: "View Project",
-			link: "https://vectorvista.vercel.app/",
+			link: "https://vectorvista.anandsharma.info/",
 		},
 		{
 			title: "Data Visualization Dashboard",
