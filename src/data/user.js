@@ -38,6 +38,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "AI Interview Bot (Next Hire)",
+			description:
+				"An intelligent interview preparation platform powered by AI that provides real-time interview practice and instant feedback. Practice technical interviews, improve your skills, and boost your confidence with our AI-powered interview simulator.",
+			logo: "https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png",
+			linkText: "View Project",
+			link: "https://github.com/anands2959/nexthire_ai",
+		},
+		{
 			title: "VectorVista",
 			description:
 				"VectorVista: A modern React-based app for creating stunning logos and graphics with an intuitive, customizable interface. Powered by Vite for a seamless design experience.",
@@ -45,14 +53,7 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://vectorvista.anandsharma.info/",
 		},
-		{
-			title: "Data Visualization Dashboard",
-			description:
-				"A MERN stack-based interactive dashboard with dynamic charts and filters, designed for visualizing and exploring complex datasets in a user-friendly and visually appealing interface.",
-			logo: "https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png",
-			linkText: "View Project",
-			link: "https://data-visualization-dashboard-nu.vercel.app/",
-		},
+		
 		{
 			title: "NodeJS Snippets extension of VS code",
 			description:
@@ -62,12 +63,12 @@ const INFO = {
 			link: "https://marketplace.visualstudio.com/items?itemName=anandcoder.nodejs-snippets-by-the-anand",
 		},
 		{
-			title: "Api Request extension of VS code",
+			title: "Algorithm Visualization System (VSS)",
 			description:
-				"API Request Tester is a Visual Studio Code extension that allows you to send HTTP requests and view responses directly within the editor.",
+				"An interactive web app for visualizing searching & sorting algorithms, helping students and developers understand them easily.",
 			logo: "https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png",
 			linkText: "View Project",
-			link: "https://github.com/anands2959/api-request-by-the-anand?tab=readme-ov-file",
+			link: "https://github.com/anands2959/VSS-visualization-searching-sorting",
 		},
 
 		{
@@ -88,7 +89,14 @@ const INFO = {
 			link: "https://github.com/anands2959/Signature-Dashboard",
 		},
 
-		
+		{
+			title: "Data Visualization Dashboard",
+			description:
+				"A MERN stack-based interactive dashboard with dynamic charts and filters, designed for visualizing and exploring complex datasets in a user-friendly and visually appealing interface.",
+			logo: "https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png",
+			linkText: "View Project",
+			link: "https://data-visualization-dashboard-nu.vercel.app/",
+		},
 
 		{
 			title: "Programming language C",
